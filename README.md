@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/fiireblade21st/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/fiireblade21st/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 3,834-byte Python chess engine: 0x88 board, negamax with PVS, LMR and null-move pruning, Zobrist transposition table, killer/history heuristics, quiescence search and tapered evaluation. Practice Elo ~1,190 against the house gauntlet.
+A 3,880-byte Python chess engine: 0x88 board, negamax with PVS, LMR and null-move pruning, Zobrist transposition table, killer/history heuristics, quiescence search and tapered evaluation. Practice Elo ~1,190 against the house gauntlet.
 
 ## Run it
 
